@@ -28,7 +28,7 @@
   ```c
   #include<stdio.h>
   int main(){
-    int sum = 0, n = 86, i;
+    int sum = 0, n = 100, i;
 @@ -32,11 +36,13 @@ the project is based on the RISC V talent development program.
     }
     return 0;
